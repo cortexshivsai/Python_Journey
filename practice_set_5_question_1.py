@@ -1,9 +1,0 @@
-words={
-    "Farsh":"Tiles",
-    "Kutta":"Dog",
-    "Chabi":"Key",
-    "Tala":"Lock"
-}
-
-word=input("Enter a word that you want to translate in english:")
-print(words[word])
