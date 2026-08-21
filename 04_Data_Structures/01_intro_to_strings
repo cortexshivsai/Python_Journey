@@ -1,0 +1,6 @@
+name="Shivsai"
+
+xyz= name[0:4]
+print(xyz)
+c=name[0]
+print(c)
