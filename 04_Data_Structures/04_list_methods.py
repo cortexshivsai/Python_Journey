@@ -1,0 +1,12 @@
+abc=["xyz",22,33.33,"Shivsai",True]
+print(abc[3])
+abc.append(2513)
+print(abc)
+abc.sort
+print(abc)
+abc.pop(2)
+print(abc)
+abc.insert(4,4040)
+print(abc)
+abc.remove(True)
+print(abc.pop(1))

@@ -1,0 +1,20 @@
+d={
+    "Shivsai":90,
+    "Shreyas":80,
+    "Akhilesh":95,
+    "Satyam": 90,
+    "Alok":95
+}
+print(d.items())
+print(d.keys())
+print(d.values())
+d.update({"Shreyas":85})
+print(d)
+abc=d.copy()
+print(abc)
+print(d.get("Satyam"))
+d.pop("Alok")
+print(d)
+print(d.popitem())
+d.clear()
+print(d)

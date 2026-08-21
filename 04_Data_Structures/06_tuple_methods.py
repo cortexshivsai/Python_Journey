@@ -1,0 +1,7 @@
+a=(1,2,"Shiv",222,"SAI",False,2,2)
+print(a)
+b=a.count(2)
+print(b)
+c=a.index("SAI") 
+print(len(a))
+print(max(a))
