@@ -1,6 +1,0 @@
-f= open("C:/Users/shivs/OneDrive/Desktop/Shivsai Python/shiv22.txt")
-data= f.read()
-print(data)
-f.close()
-# import os
-# print(os.getcwd())
